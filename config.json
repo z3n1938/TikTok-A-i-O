@@ -1,0 +1,4 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/...",
+  "proxy": "http://user:pass@proxy.example.com:8080" 
+}

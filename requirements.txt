@@ -1,0 +1,6 @@
+yt-dlp==2024.10.7
+TikTokApi==6.0.0
+colorama==0.4.6
+requests==2.32.3
+pandas==2.2.2
+playwright==1.47.0  # TikTokApi için
